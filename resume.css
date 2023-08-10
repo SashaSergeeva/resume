@@ -26,6 +26,12 @@ body {
 
 }
 
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+  }
+
 @media (max-width: 560px){
     .info {
         display: block;
